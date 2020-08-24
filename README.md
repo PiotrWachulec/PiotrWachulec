@@ -21,7 +21,7 @@ I'm wrtiting on two blogs:
 Bullets:
 - 📫 How to reach me: write an [email](mailto:piotr@wachulec.me) or check my social profiles - the list of them you can find on my profile on [SocialsHub](https://socialshub.net/PiotrWachulecOnSoftware).
 - ⚡ What is important for me:
-  * Team work
+  * Teamwork
   * Responsibility for deeds and tasks
   * Doing things as best I can at the moment.
 - 😄 Pronouns: He/him
